@@ -15,6 +15,17 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+# Features
+<ul>
+  <li>Registration users with email and password</li>
+  <li>Form validation with valid email and password required maximum 6 character</li>
+  <li>Registration page have password  and confirm password field to match</li>
+  <li>Password field can be visible or invisible using visibility eye</li>
+  <li>Logging in registered users</li>
+  <li>Logging out signed in users</li>
+  <li>Show toast message if users not valid or registered</li>
+</ul> 
+
 # Dependencies
 <ul>
   <li>cloud_firestore</li>
