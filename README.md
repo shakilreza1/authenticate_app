@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Demo
 ## Firebase Authentication
-<img src="Screenshots/Authenticate Login.jpg" width=250>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/Authenticate Registration.jpg" width=250>
+<img src="Screenshots/Authenticate Login.jpg" width=250>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/Authenticate Registration.jpg" width=250>&nbsp;&nbsp;<img src="Screenshots/Authenticate Logout.jpg" width=250>
