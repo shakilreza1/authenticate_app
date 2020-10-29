@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 # Features
 <ul>
   <li>Registration users with email and password</li>
-  <li>Form validation with valid email and password required maximum 6 character</li>
+  <li>Form validation with valid email and password required minimum 6 character</li>
   <li>Registration page have password  and confirm password field to match</li>
   <li>Password field can be visible or invisible using visibility eye</li>
   <li>Logging in registered users</li>
